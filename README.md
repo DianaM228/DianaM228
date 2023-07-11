@@ -55,12 +55,6 @@ My passion for creating innovative and effective solutions to real-world problem
 
 <p align="left">Collaborating on open-source projects related to computer vision, machine learning, or artificial intelligence<br>Connecting with other professionals and enthusiasts in the field<br>Sharing my knowledge and learning from others through discussions, articles, and tutorials</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deividbotina-alv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=deividbotina-alv&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-</div>
 
 ###
 
